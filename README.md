@@ -1,6 +1,6 @@
-# React-Tailwind-Vitest
+# React-Tailwind-MUI-Framer Motion-React Router-React 🪝 Form
 
-This is a template for a React project using TailwindCSS and Vite/Vitest. It also includes `require('@tailwindcss/forms')` in the `tailwind.config.js` file.
+Vitest and React Testing Library ✅ are there too.
 
 ## Scripts
 
