@@ -1,6 +1,15 @@
-# React-Tailwind-MUI-Framer Motion-React Router-React 🪝 Form
+# Frontend Template for Claim Capstone
 
-Vitest and React Testing Library ✅ are there too.
+Vite + React along with Vitest and React Testing Library ✅ are there too.
+
+MUI and Tailwind are integrated for styling. You should be able to mix and match them seamlessly.
+
+- [Framer Motion](https://www.framer.com/motion/introduction/##installation) for animations.
+- [React Router](https://reactrouter.com/web/guides/quick-start) for routing.
+- [React Hook Form](https://react-hook-form.com/) for forms.
+- [Yup](https://react-hook-form.com/get-started#SchemaValidation) for schema validation.
+- [MUI Components](https://mui.com/material-ui/getting-started/overview/) for UI components.
+- [TailwindCSS](https://tailwindcss.com/) for styling.
 
 ## Scripts
 
