@@ -17,10 +17,11 @@ export default function StaticDatePickerLandscape() {
   return (
     <LocalizationProvider dateAdapter={AdapterDayjs}>
       <StaticDatePicker
-        orientation="landscape"
+        orientation="portrait"
         openTo="day"
         value={value}
-        shouldDisableDate={isWeekend}
+        maxDate={dayjs("2024-12-31")}
+        minDate={dayjs("2023-01-01")}
         onChange={(newValue) => {
           setValue(newValue);
         }}
