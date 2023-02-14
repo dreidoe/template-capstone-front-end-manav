@@ -1,5 +1,10 @@
-function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
-}
+import Calendar from "./components/Calendar";
 
+function App() {
+  return (
+    <div className="App">
+      <Calendar />
+    </div>
+  );
+}
 export default App;
